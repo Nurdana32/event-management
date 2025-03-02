@@ -55,12 +55,13 @@ Event Management API is a RESTful service for managing events, sessions, attende
 🚀 Future Enhancements <br />
   -Docker Support 🐳
 
+📖 **Database Schema Documentation**
+
+      https://docs.google.com/document/d/1GFrw609YPPKPPxNZYAleT-uyvoKza7ybWa7CG3MLGcM/edit?usp=sharing
 
 📖 **API Documentation**
  
- You can use **postman collection and environments** at this repository or akses [swagger]:
-   ```bash
+ You can use **postman collection and environments** at this repository or akses [swagger] at:
+ ```bash
   http://localhost:8000/api/docs/
-
-
 
