@@ -53,8 +53,7 @@ Event Management API is a RESTful service for managing events, sessions, attende
    python manage.py runserver
 
 🚀 Future Enhancements <br />
-  -Docker Support 🐳 <br />
-  -CI/CD Pipeline 🔄
+  -Docker Support 🐳
 
 
 📖 **API Documentation**
